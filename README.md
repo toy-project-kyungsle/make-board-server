@@ -8,10 +8,6 @@
 
 PHP로 게시판의 백엔드 API를 구성합니다.
 
-프론트 코드는 아래에 있습니다.
-
-[https://github.com/keinn51/q_board](https://github.com/keinn51/q_board)
-
 ## 📌 서비스
 
 -  자신이 원하는 게시글을 쓸 수 있습니다.
